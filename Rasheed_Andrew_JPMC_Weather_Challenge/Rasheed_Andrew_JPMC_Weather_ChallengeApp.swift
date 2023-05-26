@@ -11,7 +11,7 @@ import SwiftUI
 struct Rasheed_Andrew_JPMC_Weather_ChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
